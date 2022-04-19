@@ -54,10 +54,4 @@ yolo.py --help
 [![yolov3-video](https://user-images.githubusercontent.com/26242097/48862668-0ca56c80-eded-11e8-9482-31d795105983.png)](https://youtu.be/QaxEtpRwmtI)
 <small> Click on the image to Play the video on YouTube </small>
 
-## References
 
-1) [PyImageSearch YOLOv3 Object Detection with OpenCV Blog](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-
-## License
-
-The code in this project is distributed under the MIT License.
