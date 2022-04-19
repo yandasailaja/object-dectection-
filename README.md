@@ -51,7 +51,5 @@ yolo.py --help
 
 ## Inference in Real-time
 
-[![yolov3-video](https://user-images.githubusercontent.com/26242097/48862668-0ca56c80-eded-11e8-9482-31d795105983.png)](https://youtu.be/QaxEtpRwmtI)
-<small> Click on the image to Play the video on YouTube </small>
 
 
